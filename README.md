@@ -1,5 +1,5 @@
 # operating-system-primer
-operating system primer is an open-source, beginner-friendly notebook designed to help learners understand the fundamental concepts of Operating Systems. This project serves as a comprehensive guide for students, developers, and enthusiasts aiming to build a strong foundation in OS concepts.
+Operating System Primer is an open-source, beginner-friendly notebook designed to help learners understand the fundamental concepts of Operating Systems. This project serves as a comprehensive guide for students, developers, and enthusiasts aiming to build a strong foundation in OS concepts.
 
 <br/>
 
@@ -21,34 +21,90 @@ Enthusiasts: Learn the core building blocks of Operating Systems
 ## 📬 **Each Chapter**
 <br/>
 
-### 1️⃣ **Basics of the Operating System**
-1. An introduction to the OS - [Definition, Purpose (need), Functions]
-2. Types of Operating Systems [Batch, Time-Sharing, Distributed, etc.]
-3. Components of OS [Kernel (Kernel Mode), User Space (User Mode)]
-4. Processes vs Thread [Program -> Process -> Thread, Multi-tasking and Multi-threading, Process Context Switching and Thread Context Switching]
-5. How apps (programs) interect with system? [System Calls -> Meaning, Types, How]
-6. What happens when you turn on your computer? [BIOS(UEFI) -> POST -> Bootloader(MBR)]
-7. What is 32-Bit vs 64-Bit OS - [Meaning, Understanding, Future]
-8. Understanding Memory Hierarchy in Computer Systems - [Primary and Secondary Memory]
-9. Fun Facts about OS [optional -> History and Evolution]
-<hr/>
+
+## 1️⃣ **Basics of the Operating System**
+1. An introduction to the OS
+2. Types of OS
+3. Components of OS
+4. Processes vs Thread 
+5. How do apps (programs) interact with the system? 
+6. What happens when you turn on your computer? 
+7. What is 32-bit vs 64-bit OS - 
+8. Fun Facts about OS 
 <br/>
 
-### 1️⃣ **Process Management**
-1. An introduction to Process - [How OS Convert program into Process, Architecture of Process, Attributes of Process]
-2. What is the PCB - Process Control Block? - [Structure and Content of PCB, Registers in PCB and Registers in CPU]
-3. Process States and Process Queue - [New, Ready, Running, Waiting, Terminated, Job Quque(LTS), Ready Queue(STS) and Dispatcher]
-4. What is Swapping, MTS, Process Context Switching, Orphen and Zombie Process - [Swapping, Medium Term Scheduler, Context switching, Orphen and Zombie Process]
-6. Process Scheduling - [Algorithms, Non-preemptive and Preemptive, Goals of CPU Scheduling, Convoy Effect]
-   1. FCFS - First Come-First Serve
-   2. SJF - Shortest Job First
-   3. Priority Scheduling
-   4. Round Robin Scheduling
-7. Differences between Process Scheduling Algorithms
-8. What is MLQ and MLFQ?
-9. What is Concurrency and Synchronization?
-10. Critical Section Problem, Race Condition and Solution
-11. Solution of Race Condition in details - [Atomic Operation, Mutex, Locks, Disadvantages of Muutex/Locks]
-12. Conditional Variables and Semaphores 
-<hr/>
+## 2️⃣ **Process Management**
+1. Process States and Process Queue
+2. PCB - Process Control Block?
+3. Process Context Switching
+4. Orphen and Zombie Process
+5. Process Scheduling
+6. MLQ and MLFQ
+7. IPC - Inter-Process Communication
+8. Concurrency and Synchronization
+9. Critical Section Problem, Race Condition, and Solution
+10. Atomic Operation, Mutual Exclusion, Mutex, Locks
+11. Single Flag, Double Flag, and Peterson's Solution
+12. Conditional Variables and Semaphores
+13. Deadlocks
+<br/>
+
+## 3️⃣ **Memory Management**
+1. Memory Hierarchy
+2. Cache Memory
+3. Paging
+4. Segmentation
+5. Virtual Memory
+6. Memory Allocation
+7. Fragmentation - Internal and External
+8. Swapping and MTS
+9. Thrashing
+
+<br/>
+
+
+## 4️⃣ **File System**
+1. File Types
+2. File System Architecture
+3. File Permissions
+4. Directory Structure
+5. File Operations
+6. File Systems
+7. Disk Scheduling
+8. Access Control Lists (ACLs)
+9. File Compression
+<br/>
+
+
+
+## 5️⃣ **Input/Output Management**
+1. I/O Devices
+2. I/O Scheduling
+3. Buffering and Caching
+4. Device Drivers
+5. Direct Memory Access (DMA)
+<br/>
+
+
+## 6️⃣ **System Calls and API**
+1. System Call Interface
+2. User vs Kernel Space
+3. Transitioning between user and kernel modes
+4. API Calls
+<br/>
+
+
+## 7️⃣ **Scheduling Algorithms**
+1. CPU Scheduling - First-Come-First-Served (FCFS) | Shortest Job First (SJF) | Round Robin (RR) | Priority Scheduling
+2. MLQ - Multilevel Queue Scheduling
+3. MLFQ - Multilevel Feedback Queue
+4. Real-Time Scheduling
+<br/>
+
+## 8️⃣ **Security and Protection**
+1. Authentication
+2. Authorization
+3. Encryption
+4. Access Control Mechanisms
+5. Intrusion Detection Systems
 <br/>
