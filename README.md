@@ -108,3 +108,35 @@ Enthusiasts: Learn the core building blocks of Operating Systems
 4. Access Control Mechanisms
 5. Intrusion Detection Systems
 <br/>
+
+
+## 9️⃣ **Virtualization and Containers**
+1. Virtualization
+2. Containers
+3. Memory Virtualization
+<br/>
+
+## 🔟 **Networking in OS**
+1. Socket Programming
+2. DNS
+3. TCP/IP Stack
+4. Inter-Process Communication
+<br/>
+
+
+
+<hr/>
+<br/>
+
+## **Example Questions for Interview:**
+- Explain the difference between process and thread.
+- What is a race condition, and how can it be avoided?
+- What is a deadlock, and how do you prevent it?
+- How does virtual memory work?
+- Explain different types of scheduling algorithms.
+- What are paging and segmentation in memory management?
+- What are system calls? Can you give an example?
+- How does a file system work?
+- What is the difference between a process and a program?
+- Explain the producer-consumer problem and how to solve it.
+- How does swapping work in operating systems?
