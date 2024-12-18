@@ -10,10 +10,17 @@ Enthusiasts: Learn the core building blocks of Operating Systems
 
 <br/>
 
-## 📖 **What you will learn? (Total 9 Chapters)**
+## 📖 **What you will learn? (Total 10 Chapters)**
 1. Basics of the Operating System
 2. Process Management
 3. Memory Management
+4. File System
+5. Input/Output Management
+6. System Calls and API
+7. Scheduling Algorithms
+8. Security and Protection
+9. Virtualization and Containers
+10. Networking in OS
 
 <hr/>
 <br/>
